@@ -20,6 +20,6 @@ A core based on Satori Protocol implementation.
 
 PHP Development Kit of Satori
 
-### 🎉 Awesome Satori!
+## 🎉 Awesome Satori!
 
 https://github.com/satorijs/awesome-satori#community
